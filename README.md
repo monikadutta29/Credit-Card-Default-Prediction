@@ -15,7 +15,8 @@ This dataset contains information on default payments, demographic factors, cred
     <br> -  PAST_PAY2 = the repayment status in August 2005
     <br> -  PAST_PAY6 = the repayment status in April 2005
     
-    <br> -  The measurement scale for the repayment status is 
+    <br> -  The measurement scale for the repayment status is
+    
     i. -2 = no consumption <br>
     ii. -1 = pay duly <br>
     iii. 1 = payment delay for one month <br>
