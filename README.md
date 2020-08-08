@@ -11,9 +11,9 @@ This dataset contains information on default payments, demographic factors, cred
 5.	__MARRIAGE__ - Marital Status (1 = married; 2 = single; 3 = others)
 6.	__AGE__ - (in years)
 7.	__PAST_PAY__ - History of repayment status
-    <br> -  PAST_PAY1 = the repayment status in September 2005
-    <br> -  PAST_PAY2 = the repayment status in August 2005
-    <br> -  PAST_PAY6 = the repayment status in April 2005
+    <br> -  PAY_1 = the repayment status in September 2005
+    <br> -  PAY_2 = the repayment status in August 2005
+    <br> -  PAY_6 = the repayment status in April 2005
     
     <br> -  The measurement scale for the repayment status is
     
